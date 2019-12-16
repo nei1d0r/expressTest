@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nei1d0r/expressTest/issues"
   },
-  "homepage": "https://github.com/nei1d0r/expressTest#readme"
+  "homepage": "https://github.com/nei1d0r/expressTest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
